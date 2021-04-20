@@ -1,10 +1,10 @@
 import java.util.*;
-public class Length_of_Line {
+public class Length_Of_Line {
 
-	public static void main(String[] args) 
+	void length() 
 	{
-		Scanner sc= new Scanner(System.in);
-		System.out.println("please entre x coordinates of the line ");
+	  Scanner sc= new Scanner(System.in);
+	  System.out.println("please entre x coordinates of the line ");
   	  int x11 = sc.nextInt();
   	  int x12 = sc.nextInt();
   	  System.out.println("please entre y coordinates of the line ");

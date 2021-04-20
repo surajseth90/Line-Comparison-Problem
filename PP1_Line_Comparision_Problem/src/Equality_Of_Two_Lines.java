@@ -1,9 +1,9 @@
 import java.util.*;
-public class Equality_of_Two_Lines {
+public class Equality_Of_Two_Lines {
 
-	public static void main(String[] args) {
-    Scanner sc = new Scanner (System.in);	
-	System.out.println("please entre x coordinates of first line ");
+	void equality() {
+      Scanner sc = new Scanner (System.in);	
+      System.out.println("please entre x coordinates of first line ");
 	  int x11 = sc.nextInt();
 	  int x12 = sc.nextInt();
 	  System.out.println("please entre y coordinates of first line ");

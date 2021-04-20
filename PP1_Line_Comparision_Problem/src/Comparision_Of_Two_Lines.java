@@ -1,9 +1,9 @@
 import java.util.*;
-public class Comparision_of_Two_Lines {
+public class Comparision_Of_Two_Lines {
 
-	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
-		System.out.println("please entre x coordinates of first line ");
+	void comparision() {
+	  Scanner sc = new Scanner(System.in);
+	  System.out.println("please entre x coordinates of first line ");
   	  int x11 = sc.nextInt();
   	  int x12 = sc.nextInt();
   	  System.out.println("please entre y coordinates of first line ");
